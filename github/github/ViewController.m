@@ -18,13 +18,13 @@
     [super viewDidLoad];
 
     self.view.backgroundColor = [UIColor orangeColor];
-    NSLog(@"这是修改");
+    NSLog(@"这是修改的地方");
 }
 
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
+    
 }
 
 
