@@ -18,6 +18,7 @@
     [super viewDidLoad];
 
     self.view.backgroundColor = [UIColor orangeColor];
+    NSLog(@"这是修改");
 }
 
 
