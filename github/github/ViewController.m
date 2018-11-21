@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
 
-    self.view.backgroundColor = [UIColor orangeColor];
+    self.view.backgroundColor = [UIColor redColor];
     NSLog(@"这是修改的地啊");
 }
 
