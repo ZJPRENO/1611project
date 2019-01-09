@@ -18,7 +18,7 @@
     [super viewDidLoad];
 
     self.view.backgroundColor = [UIColor redColor];
-    NSLog(@"这是修改的地啊");
+    NSLog(@"测试一下");
 }
 
 
