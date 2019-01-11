@@ -1,9 +1,9 @@
 //
 //  main.m
-//  github
+//  轮播图test
 //
-//  Created by 张俊平 on 16/12/6.
-//  Copyright © 2016年 张俊平. All rights reserved.
+//  Created by 张俊平 on 2017/2/26.
+//  Copyright © 2017年 ZHANGJUNPING. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
